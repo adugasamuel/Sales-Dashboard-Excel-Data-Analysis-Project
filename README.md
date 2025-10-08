@@ -28,7 +28,7 @@ It emphasizes **data cleaning**, **exploratory data analysis (EDA)**, **data vis
 
 ---
 
-## ⚠️ **Problem Statement**
+## **Problem Statement**
 
 The primary business problem addressed by this analysis was the lack of a **centralized, interactive reporting system** to monitor and assess sales performance.
 
