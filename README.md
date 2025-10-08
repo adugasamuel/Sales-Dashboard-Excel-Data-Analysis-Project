@@ -12,7 +12,7 @@ The dataset used for this project was **obtained from a public source** and serv
 
 ##  **Project Description**
 
-This project focuses on analyzing **company sales data** to uncover performance patterns, profitability trends, and high-value customer segments.
+This project focuses on analyzing **company sales data** to uncover performance patterns, profitability trends, and high-value customer segments. It visualizes company performance across regions, categories, sub-categories and customers (years visible: 2014–2016).
 
 The **Excel Dashboard** consolidates multiple key performance indicators (KPIs) — including **Total Sales**, **Total Profit**, and **Quantity Sold** — and presents them in a visually engaging and interactive format using slicers, timelines, and pivot charts.
 
