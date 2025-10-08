@@ -94,15 +94,6 @@ Steps performed:
 
 ---
 
-## 📊 **Analysis / Work Done**
-
-**Tools & Skills Used:**
-
-* Microsoft Excel (PivotTables, PivotCharts, Slicers, Timelines, GETPIVOTDATA, Conditional Formatting)
-* Business Acumen & Storytelling
-* Data Cleaning, EDA, Dashboard Design, KPI Development
-* Data Visualization Principles (color hierarchy, visual balance, accessibility)
-
 ## 📊 Analysis / Work Done
 
 ### **Dashboard Components**
@@ -117,34 +108,20 @@ Steps performed:
  **Sub-Category Trend Line:** Shows product sales patterns and fluctuations.  
 **Interactive Filters:** Category, State slicers, and an Order Date timeline.
 
-### **Insights**
+### 📌 **Key Insights**
 - The **West region** drives the highest revenue ($725K), followed closely by the **East ($679K)**.  
 - The **Consumer segment** contributes **50%** of total sales — the largest share.  
 - **Technology products** lead in total sales, followed by Furniture and Office Supplies.  
 - A small number of **key customers** account for a large share of revenue — ideal for loyalty programs.  
 - **Seasonal and promotional spikes** are visible in sub-category sales trends.
 
-
 ---
+**Tools & Skills Used:**
 
-
-## 📌 **Key Insights**
-
-From the dashboard analysis:
-
-1. **Total Sales:** ≈ $2,297,200
-2. **Total Profit:** $286,397
-3. **Quantity Sold:** 9,994 units
-4. **Profit Margin:** ≈ 12.5%
-5. **Top-Performing Regions:**
-
-   * 🥇 *West Region* – $725K
-   * 🥈 *East Region* – $678K
-6. **Lowest-Performing Region:** *South Region* ($391K) — potential for marketing and sales improvement.
-7. **Best-Selling Segment:** *Consumer* (50% share).
-8. **Top Category:** *Technology* — strongest revenue driver.
-9. **Top Customers:** *Tamara Chand* and *Raymond Buch* lead sales contributions.
-
+* Microsoft Excel (PivotTables, PivotCharts, Slicers, Timelines, GETPIVOTDATA, Conditional Formatting)
+* Business Acumen & Storytelling
+* Data Cleaning, EDA, Dashboard Design, KPI Development
+* Data Visualization Principles (color hierarchy, visual balance, accessibility)
 ---
 
 ## ⚙️ **Key Features of the Dashboard**
