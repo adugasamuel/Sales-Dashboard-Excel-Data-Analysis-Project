@@ -114,7 +114,7 @@ Steps performed:
 ---
 **Tools & Skills Used:**
 
-* Microsoft Excel (PivotTables, PivotCharts, Slicers, Timelines, GETPIVOTDATA, Conditional Formatting)
+* Microsoft Excel (PivotTables, PivotCharts, Slicers, Timelines, GETPIVOTDATA)
 * Business Acumen & Storytelling
 * Data Cleaning, EDA, Dashboard Design, KPI Development
 * Data Visualization Principles (color hierarchy, visual balance, accessibility)
