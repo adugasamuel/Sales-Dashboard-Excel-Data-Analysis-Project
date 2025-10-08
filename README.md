@@ -103,7 +103,30 @@ Steps performed:
 * Data Cleaning, EDA, Dashboard Design, KPI Development
 * Data Visualization Principles (color hierarchy, visual balance, accessibility)
 
+## 📊 Analysis / Work Done
+
+### **Dashboard Components**
+ **KPI Cards:** Total Sales ($2,297,201), Total Profit ($286,397), Total Quantity (9,994).  
+**Sales by Segment:** Consumer (50%), Corporate (31%), Home Office (19%).  
+**Sales by Region:**  
+  - West — $725,458  
+  - East — $678,781  
+  - Central — $501,240  
+  - South — $391,722  
+ **Top 10 Customers:** Highlights highest-value customers for retention focus.  
+ **Sub-Category Trend Line:** Shows product sales patterns and fluctuations.  
+**Interactive Filters:** Category, State slicers, and an Order Date timeline.
+
+### **Insights**
+- The **West region** drives the highest revenue ($725K), followed closely by the **East ($679K)**.  
+- The **Consumer segment** contributes **50%** of total sales — the largest share.  
+- **Technology products** lead in total sales, followed by Furniture and Office Supplies.  
+- A small number of **key customers** account for a large share of revenue — ideal for loyalty programs.  
+- **Seasonal and promotional spikes** are visible in sub-category sales trends.
+
+
 ---
+
 
 ## 📌 **Key Insights**
 
