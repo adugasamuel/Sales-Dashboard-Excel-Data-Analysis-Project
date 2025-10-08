@@ -104,16 +104,16 @@ Steps performed:
   - East — $678,781  
   - Central — $501,240  
   - South — $391,722  
- **Top 10 Customers:** Highlights highest-value customers for retention focus.  
- **Sub-Category Trend Line:** Shows product sales patterns and fluctuations.  
-**Interactive Filters:** Category, State slicers, and an Order Date timeline.
-
 ### 📌 **Key Insights**
 - The **West region** drives the highest revenue ($725K), followed closely by the **East ($679K)**.  
 - The **Consumer segment** contributes **50%** of total sales — the largest share.  
 - **Technology products** lead in total sales, followed by Furniture and Office Supplies.  
 - A small number of **key customers** account for a large share of revenue — ideal for loyalty programs.  
 - **Seasonal and promotional spikes** are visible in sub-category sales trends.
+- **Top 10 Customers:** Highlights highest-value customers for retention focus.
+- **Sub-Category Trend Line:** Shows product sales patterns and fluctuations.
+- **Interactive Filters:** Category, State slicers, and an Order Date timeline.
+
 
 ---
 **Tools & Skills Used:**
