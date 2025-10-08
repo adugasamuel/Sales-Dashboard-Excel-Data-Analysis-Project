@@ -20,14 +20,11 @@ It is designed for **executive decision-making**, offering a top-level view of b
 
 ---
 
-## 🌍 **Project Context**
+## **Project Context**
 
 This project is part of my **Professional Data Analyst Portfolio**, aimed at demonstrating strong technical, analytical, and storytelling skills using Microsoft Excel.
 
 It emphasizes **data cleaning**, **exploratory data analysis (EDA)**, **data visualization**, and **dashboard development**, showing how Excel can serve as a full analytical environment for both technical and non-technical stakeholders.
-
-> 🔗 **Portfolio Link:** [View Project on GitHub](#)
-
 ---
 
 ## ⚠️ **Problem Statement**
