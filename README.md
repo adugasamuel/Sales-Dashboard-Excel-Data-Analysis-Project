@@ -53,7 +53,7 @@ The project was designed to:
 
 ---
 
-##**My Approach**
+## **My Approach**
 
 This project followed a structured analytical framework commonly used in professional data analytics:
 
