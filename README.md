@@ -111,10 +111,6 @@ Steps performed:
 - A small number of **key customers** account for a large share of revenue — ideal for loyalty programs.  
 - **Seasonal and promotional spikes** are visible in sub-category sales trends.
 - **Top 10 Customers:** Highlights highest-value customers for retention focus.
-- **Sub-Category Trend Line:** Shows product sales patterns and fluctuations.
-- **Interactive Filters:** Category, State slicers, and an Order Date timeline.
-
-
 ---
 **Tools & Skills Used:**
 
