@@ -69,11 +69,11 @@ The dataset contained the following columns:
 
 Key cleaning steps:
 
-* ✅ Checked **data types** for accuracy (Sales, Quantity, and Profit as numeric fields).
-* ✅ **Handled negative profit values** — corrected data inconsistencies.
-* ✅ Converted **Sales** and **Profit** to currency format.
-* ✅ Removed duplicates and ensured consistent capitalization.
-* ✅ Verified **9,994 valid sales records** after cleaning.
+* I Checked **data types** for accuracy (Sales, Quantity, and Profit as numeric fields).
+* **Handled negative profit values** — corrected data inconsistencies.
+* I Converted **Sales** and **Profit** to currency format.
+* I Removed duplicates and ensured consistent capitalization.
+* Verified **9,994 valid sales records** after cleaning.
 
 ### 🔹 **3. Data Modelling & Engineering**
 
