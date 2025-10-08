@@ -6,7 +6,7 @@ This project presents a **comprehensive one-page interactive Sales Dashboard** b
 
 The dataset used for this project was **obtained from a public source** and serves as a **simulation of real-world sales transactions**. It reflects business performance across multiple regions, customer segments, and product categories — enabling decision-makers to identify trends and evaluate profitability across dimensions.
 
-> 💡 *Note:* This analysis is for **educational and portfolio demonstration** purposes, highlighting professional Excel dashboarding and analytical storytelling capabilities.
+> ⚠️ *Note:* This analysis is for **educational and portfolio demonstration** purposes, highlighting professional Excel dashboarding and analytical storytelling capabilities.
 
 ---
 
