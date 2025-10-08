@@ -160,25 +160,9 @@ It merges **analytical thinking, business acumen, and design principles** — pr
 
 ## 📬 **Contact**
 
-**👨‍💼 Author:** [Aduga Emmanuel]
-**📧 Email:** [adugasamuel@gmail.com](adugasamuel@gmail.com)
-**🌐 Portfolio:** [https://github.com/yourusername](https://github.com/yourusername)
-**💼 LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Author:** [Aduga Emmanuel]
+**Email:** [adugasamuel@gmail.com](adugasamuel@gmail.com)
+**🌐Portfolio:** [https://github.com/yourusername](https://github.com/yourusername)
+**[linkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aduga-emmanuel-170396132/)**
 
----
 
-✨ **Suggested Repository Structure**
-
-```
-/Sales-Dashboard/
-│
-├── Sales_Dashboard.xlsx          # Excel dashboard file
-├── sample_sales.csv              # Cleaned dataset
-├── presentation.pptx             # Executive summary slides
-├── README.md                     # Project documentation
-└── /assets/screenshots/          # Dashboard images
-```
-
----
-
-[Catch the Quantum Wave... Password: spinor](https://pulsr.co.uk/spinor.html)
