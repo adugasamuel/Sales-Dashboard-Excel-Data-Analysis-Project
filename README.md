@@ -41,7 +41,7 @@ Key challenges included:
 
 ---
 
-## 🎯 **Aim of the Project**
+##**Aim of the Project**
 
 The project was designed to:
 
@@ -132,7 +132,7 @@ Steps performed:
 
 ---
 
-## 💡 **Recommendations**
+## **Recommendations**
 
 1. **Expand Technology inventory** and prioritize marketing in high-performing categories.
 2. **Investigate South region** to understand root causes of low sales.
@@ -142,7 +142,7 @@ Steps performed:
 
 ---
 
-## 🏁 **Final Note**
+##**Final Note**
 
 This project demonstrates how **Excel can serve as a full-fledged BI tool** for sales performance tracking, offering both depth and simplicity.
 
