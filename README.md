@@ -153,13 +153,14 @@ It merges **analytical thinking, business acumen, and design principles** — pr
 ---
 
 ## 📬**Contact**
+
 **Aduga Emmanuel**
 
-[**Email**](adugasamuel@gmail.com)
+[Email](adugasamuel@gmail.com)
 
 [linkedIn](https://www.linkedin.com/in/aduga-emmanuel-170396132/)**
 
-🌐**[Portfolio]**([https://github.com/yourusername](https://linktr.ee/adugasamuel)
+🌐[Portfolio]([https://github.com/yourusername](https://linktr.ee/adugasamuel)
 
 ---
 
