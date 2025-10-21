@@ -41,7 +41,7 @@ Key challenges included:
 
 ---
 
-##**Aim of the Project**
+## **Aim of the Project**
 
 The project was designed to:
 
@@ -142,7 +142,7 @@ Steps performed:
 
 ---
 
-##**Final Note**
+## **Final Note**
 
 This project demonstrates how **Excel can serve as a full-fledged BI tool** for sales performance tracking, offering both depth and simplicity.
 
