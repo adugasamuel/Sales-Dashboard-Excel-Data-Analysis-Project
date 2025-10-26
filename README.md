@@ -160,7 +160,7 @@ It merges **analytical thinking, business acumen, and design principles** — pr
 
 [linkedIn](https://www.linkedin.com/in/aduga-emmanuel-170396132/)
 
-🌐[Portfolio](https://linktr.ee/adugasamuel)
+🌐[Portfolio](https://adugasamuel.github.io/)
 
 ---
 
